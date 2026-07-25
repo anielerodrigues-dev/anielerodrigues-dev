@@ -1,8 +1,14 @@
+<h1 align="center">Olá, eu sou Aniele 🎀</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Estudando+Java+%F0%9F%93%9A;Praticando+HTML+e+CSS+%F0%9F%8E%A8;Sempre+aprendendo+algo+novo+%F0%9F%8E%80" alt="Typing SVG" /> </p>
+---
+ 
+### 📚 Estudos atuais
+ 
+- 🔭 Estudando **Java** — lógica de programação, variáveis, estruturas condicionais e entrada de dados
+- 🎨 Praticando **HTML e CSS** — estrutura, estilização e responsividade
+- 🌱 Aprendendo um pouco a cada dia, projeto por projeto
+---
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-![](https://github-readme-stats.shion.dev/api?username=anielerodrigues-dev&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=anielerodrigues-dev&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anielerodrigues-dev&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
